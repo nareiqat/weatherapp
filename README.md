@@ -1,2 +1,3 @@
 # weatherapp
-simple weather app with warm/cold theme!
+Check out Master Branch!
+
